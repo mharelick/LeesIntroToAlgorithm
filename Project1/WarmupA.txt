@@ -1,0 +1,9 @@
+func cartprod(A,B)
+    combinedList = empty set
+    if length of A is 0 or length of B is 0 return combinedList
+    for each item a in A 
+        for each item b in B
+           create a tuple (a,b ) called pair
+           add pair to combinedList
+    return combinedList
+    

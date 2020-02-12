@@ -1,0 +1,3 @@
+Warmup A: WarmupA.txt
+Warmup B: cartprod.py
+Warmup C: cartmultiprod.py
